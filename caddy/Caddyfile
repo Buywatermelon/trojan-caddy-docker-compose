@@ -1,10 +1,10 @@
-www.yourdomain.com:80 {
+www.wobuxiang996.icu:80 {
     root /usr/src/trojan
     log /usr/src/caddy.log
     index index.html
 }
 
-www.yourdomain.com:443 {
+www.wobuxiang996.icu:443 {
     root /usr/src/trojan
     log /usr/src/caddy.log
     index index.html
